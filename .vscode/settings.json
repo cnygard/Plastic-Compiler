@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "token.h": "c",
+        "parser.h": "c",
+        "symbol_table.h": "c"
+    }
+}
